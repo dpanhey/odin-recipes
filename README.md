@@ -22,3 +22,5 @@ use the command line to see
 - commit them
 - log them to see what happened recently
 - push them to the GitHub repository
+
+At last, i also added some styling to my project, wich includes some normal selectors like class, typ and grouping selectors (no chains, descendants).
